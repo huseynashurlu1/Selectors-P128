@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    color: #fff;
+    font-size: 1rem;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+#first{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    padding: 13rem 0;
+    background-attachment: fixed;
+}
+
+#first h1{
+    color: #212529;
+    font-size: 88px;
+}
+
+#first h3{
+    font-size: 28px;
+    color: #212529;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+#first a{
+    background-color: #1d809f;
+}
+
+#second{
+    text-align: center;
+    padding: 10rem 0;
+}
+
+#second h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#second p{
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+#second .btn{
+    background-color: #212529;
+   
+}
+
+#third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 10rem 0;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#third h2{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+#third .btn{
+    background-color: #1d809f;
+}
+
+#fourth{
+    padding: 6rem 0;
+    text-align: center;
+    background-color: #1d809f;
+}
+
+#fourth h2{
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+#fourth .btn1{
+    background-color: #fff;
+    color: #212529;
+    margin-right: 15px;
+}
+#fourth .btn2{
+    background-color: #212529;
+}

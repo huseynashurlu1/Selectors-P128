@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* p{
+    font-weight: bold;
+    color: red;
+    font-style: italic;
+}
+
+
+a{
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid red;
+    color: red;
+    padding: 12px 60px;
+    border-radius: 5px;
+}
+
+#first{
+    background-color: orange;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+    border: 5px dashed #000;
+}
+
+#second{
+    background-color: rgb(2, 203, 9);
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+    border: 5px dashed rgb(255, 33, 33);
+}
+
+ul.list {
+    font-weight: bold;
+} */
+
+
+/* .register {
+    border: 2px solid purple;
+    padding: 12px 60px;
+    background-color: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.register:hover{
+    background-color: purple;
+    color: #fff;
+    padding: 12px 70px;
+}
+
+h1{
+    text-align: center;
+    background-color: orange;
+    transition: .5s;
+    cursor: pointer;
+}
+
+h1:hover{
+    background-color: rgb(137, 89, 0);
+}
+
+
+::selection{
+    background-color: rgba(255, 0, 0, 0.561);
+    color: #fff;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: orange;
+}
+
+p{
+    user-select: none;
+}
+
+.first,.second{
+    color: red;
+} */
+/* class , id */
+/* 
+.text{
+    text-align: center;
+    background-color: orange;
+    padding: 50px 0;
+    width: 40%;
+    margin: 2rem auto;
+}
+
+.lorem{
+    text-align: center;
+    background-color: greenyellow;
+    padding: 50px 0;
+    width: 100%;
+    margin: 2rem auto;
+}
+
+.lorem2{
+    text-align: center;
+    background-color: rgb(42, 86, 230);
+    padding: 50px 0;
+    width: 80%;
+    margin: 2rem auto;
+} */
+
+/* div .text{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+} */
+
+/* .photo{
+    width: 30%;
+}
+
+.photo img{
+    width: 100%;
+    transition: .5s;
+    filter: hue-rotate(-90deg);
+}
+
+
+.photo:hover img{
+    filter: grayscale(0);
+} */
+
+/* body{
+    background-attachment: fixed;
+    background-image: url(https://cdn.pixabay.com/photo/2022/04/01/09/08/particles-7104407_1280.jpg);
+} */
+
+/* .first{
+    background-image: url(https://logos-download.com/wp-content/uploads/2016/02/Google_Logo_1997.png);
+    background-repeat: repeat-x;
+    text-align: center;
+    padding: 10rem 0;
+}
+
+h1{
+    color: #fff;
+    font-size: 50px;
+} */
+/* 
+.second{
+    margin-top: 100px;
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/31/11/31/laptop-2557468_1280.jpg);
+    height: 100vh;
+    text-align: center;
+    padding-top: 10rem;
+    background-attachment: fixed;
+}
+
+.third{
+    margin-top: 100px;
+    height: 100vh;
+    text-align: center;
+    padding-top: 10rem;
+    background-attachment: fixed;
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/31/11/46/laptop-2557586_1280.jpg);
+} */
+
+
+body{
+    background-image: linear-gradient(to right,#01516bc0,#00d3e5,#01516bda,#00d3e5,#01506b,#00d3e5);
+    height: 100vh;
+}
